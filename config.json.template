@@ -1,0 +1,6 @@
+{
+    "url": "http://yourls.example.com",
+    "signature": "SECRET_API_KEY",
+    "exporter_port": 9923,
+    "exporter_timeout": 10
+}
