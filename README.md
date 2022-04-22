@@ -1,4 +1,4 @@
-# YOURLS Prometheus Exporter
+# YOURLS Prometheus Exporter [![Listed in Awesome YOURLS!](https://img.shields.io/badge/Awesome-YOURLS-C5A3BE)](https://github.com/YOURLS/awesome-yourls/)
 
 A Prometheus exporter to fetch some metrics from a YOURLS URL-shortener instance.
 
